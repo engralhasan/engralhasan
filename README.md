@@ -87,12 +87,23 @@
   <a href="https://www.linkedin.com/in/engralhasan">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
+  <a href="https://www.facebook.com/engralhasan418">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="Facebook" />
+  </a>
   <a href="https://github.com/engralhasan">
     <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engralhasan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <a href="mailto:engralhasan.bd@gmail.com">
+    <img src="https://img.shields.io/badge/engralhasan.bd%40gmail.com-24283B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email engralhasan.bd@gmail.com" />
+  </a>
+  <a href="mailto:alhasanmd418@gmail.com">
+    <img src="https://img.shields.io/badge/alhasanmd418%40gmail.com-24283B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email alhasanmd418@gmail.com" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engralhasan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+</p>
