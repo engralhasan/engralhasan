@@ -96,10 +96,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:engralhasan.bd@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=engralhasan.bd@gmail.com">
     <img src="https://img.shields.io/badge/engralhasan.bd%40gmail.com-24283B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email engralhasan.bd@gmail.com" />
   </a>
-  <a href="mailto:alhasanmd418@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alhasanmd418@gmail.com">
     <img src="https://img.shields.io/badge/alhasanmd418%40gmail.com-24283B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email alhasanmd418@gmail.com" />
   </a>
 </p>
